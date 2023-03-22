@@ -9822,7 +9822,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4414543286204777628, guid: 87212556a82f3e048bec6d002e9390a1, type: 3}
       propertyPath: speed
-      value: 10
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4414543286204777629, guid: 87212556a82f3e048bec6d002e9390a1, type: 3}
       propertyPath: m_RootOrder
