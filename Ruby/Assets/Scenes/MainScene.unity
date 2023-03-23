@@ -10260,17 +10260,21 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bot
       objectReference: {fileID: 0}
+    - target: {fileID: 506308043740024429, guid: 90419b16f3891434189bb396a3a7579a, type: 3}
+      propertyPath: speed
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 506308043740024430, guid: 90419b16f3891434189bb396a3a7579a, type: 3}
       propertyPath: m_RootOrder
       value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 506308043740024430, guid: 90419b16f3891434189bb396a3a7579a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -4.68
+      value: -5.51
       objectReference: {fileID: 0}
     - target: {fileID: 506308043740024430, guid: 90419b16f3891434189bb396a3a7579a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.55
+      value: -4
       objectReference: {fileID: 0}
     - target: {fileID: 506308043740024430, guid: 90419b16f3891434189bb396a3a7579a, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10484,6 +10488,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4414543286204777628, guid: 87212556a82f3e048bec6d002e9390a1, type: 3}
+      propertyPath: speed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 4414543286204777628, guid: 87212556a82f3e048bec6d002e9390a1, type: 3}
       propertyPath: throwSound
       value: 
